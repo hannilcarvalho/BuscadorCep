@@ -17,7 +17,7 @@ export default function Name({ navigation }) {
                 <Text
                     style={styles.hyperlinkStyle}
                     onPress={() => {
-                    Linking.openURL('https://github.com/hannilcarvalho/BuscaCep');
+                    Linking.openURL('https://github.com/hannilcarvalho/BuscadorCep');
                     }}>
                     Diretorio no Github
                 </Text>
